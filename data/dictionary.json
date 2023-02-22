@@ -1,0 +1,32 @@
+[
+  {
+    "translate": "могти",
+    "base": "potere",
+    "io": "posso",
+    "tu": "puoi",
+    "lui": "può",
+    "noi": "possiamo",
+    "voi": "potete",
+    "loro": "possono"
+  },
+  {
+    "translate": "мусити",
+    "base": "dovere",
+    "io": "devo",
+    "tu": "devi",
+    "lui": "deve",
+    "noi": "dobbiamo",
+    "voi": "dovete",
+    "loro": "devono"
+  },
+  {
+    "translate": "хотіти",
+    "base": "volere",
+    "io": "voglio",
+    "tu": "vuoi",
+    "lui": "vuole",
+    "noi": "vogliamo",
+    "voi": "volete",
+    "loro": "vogliono"
+  }
+]
